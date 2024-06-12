@@ -1,2 +1,2 @@
-This task to create a K-means clustering algorithm to group customers of a retail store based on their purchase history by Prodigy InfoTech.I successfully completed the project.
-link for the dataset: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+This task to implement a linear regression model to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms. by Prodigy InfoTech.I successfully completed the task.
+link for the dataset: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
